@@ -22,3 +22,7 @@ core?
 
 depreciation of elo if inactive
 
+/*
+HSharp
+Allow any combination of factions ships servers and cores to see any trends for player preference, effectiveness with ship and if any ship/core combo seems cheesier. Obviously not going to get solid results with a small user base of SysX squad but stats are stats yo.
+*/ 
