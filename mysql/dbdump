@@ -1,0 +1,1 @@
+mysqldump -uroot -p dm_league > dm_league.sql

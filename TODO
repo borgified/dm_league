@@ -21,6 +21,10 @@ server to use? lag issues?
 core?
 
 depreciation of elo if inactive
+- LoL rules (http://leagueoflegends.wikia.com/wiki/Elo_rating_system)
+everyone starts at 1200 for first 10 games (could make it first 3 for us)
+if above 1400, decays after 4 weeks of inactivity, 25 pts / week to a 1400 floor
+
 
 /*
 HSharp
